@@ -1,0 +1,26 @@
+/**************Tag Selectors**************/
+body {
+  background-color: #aceed0;
+}
+hr {
+  background-color: whitesmoke;
+  border-style: none;
+  height: 2px;
+}
+
+h2 {
+  color: #63595c;
+}
+h3 {
+  color: #412234;
+}
+
+/**************ID Selectors**************/
+#matchday {
+  color: #63595c;
+}
+/*
+img:hover {
+  background-color: gold;
+}
+*/
